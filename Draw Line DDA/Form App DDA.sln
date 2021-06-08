@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form App DDA", "Form App DDA.csproj", "{392BAB8D-87BB-4F6A-8466-F1D79DAD8DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392BAB8D-87BB-4F6A-8466-F1D79DAD8DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392BAB8D-87BB-4F6A-8466-F1D79DAD8DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392BAB8D-87BB-4F6A-8466-F1D79DAD8DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392BAB8D-87BB-4F6A-8466-F1D79DAD8DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17D43ED-77C3-4AA5-8879-29AB46952FC7}
+	EndGlobalSection
+EndGlobal

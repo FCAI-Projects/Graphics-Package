@@ -1,0 +1,45 @@
+C:\Users\user\Downloads\Transformation1\Transformation\bin\Debug\Transformation.exe
+C:\Users\user\Downloads\Transformation1\Transformation\bin\Debug\Transformation.pdb
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\Transformation.Form1.resources
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\Transformation.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\Transformation.exe
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\Transformation.pdb
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Debug\Transformation.Form2.resources
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\Transformation.exe
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\Transformation.pdb
+C:\Users\user\Downloads\Transformation1a\Transformation\bin\Debug\Transformation.exe
+C:\Users\user\Downloads\Transformation1a\Transformation\bin\Debug\Transformation.pdb
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\Transformation.Form1.resources
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\Transformation.Form2.resources
+C:\Users\user\Downloads\Transformation1a\Transformation\obj\Debug\Transformation.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\bin\Debug\Transformation.exe
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\bin\Debug\Transformation.pdb
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.Form1.resources
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.Form2.resources
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.exe
+C:\Users\Administrator\Desktop\TransformationCS1b\Transformation\obj\Debug\Transformation.pdb
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.Form1.resources
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.Form2.resources
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.exe
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.pdb
+C:\Users\Administrator\Desktop\translate\bin\Debug\Transformation.exe
+C:\Users\Administrator\Desktop\translate\bin\Debug\Transformation.pdb
+C:\Users\Administrator\Desktop\translate\obj\Debug\Transformation.Properties.Resources.resources
+C:\Users\ezzdi\Desktop\Graphics Package\translate\bin\Debug\Transformation.exe
+C:\Users\ezzdi\Desktop\Graphics Package\translate\bin\Debug\Transformation.pdb
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csprojAssemblyReference.cache
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Form1.resources
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Form2.resources
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Properties.Resources.resources
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csproj.GenerateResource.cache
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.exe
+C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.pdb

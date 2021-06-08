@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Form App DDA/1.0.0": {
+        "runtime": {
+          "Form App DDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Form App DDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

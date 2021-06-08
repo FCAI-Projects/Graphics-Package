@@ -1,0 +1,30 @@
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.exe
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.deps.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.dev.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csprojAssemblyReference.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw_Circle.Form1.resources
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.GenerateResource.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfo.cs
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\Mahmoud Sobhy\source\repos\Draw Circle\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.genruntimeconfig.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.exe
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.deps.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.dev.json
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csprojAssemblyReference.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw_Circle.Form1.resources
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.GenerateResource.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfo.cs
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.genruntimeconfig.cache
