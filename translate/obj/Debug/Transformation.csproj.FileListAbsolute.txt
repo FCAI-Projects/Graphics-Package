@@ -37,7 +37,6 @@ C:\Users\ezzdi\Desktop\Graphics Package\translate\bin\Debug\Transformation.exe
 C:\Users\ezzdi\Desktop\Graphics Package\translate\bin\Debug\Transformation.pdb
 C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csprojAssemblyReference.cache
 C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Form1.resources
-C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Form2.resources
 C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.Properties.Resources.resources
 C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csproj.GenerateResource.cache
 C:\Users\ezzdi\Desktop\Graphics Package\translate\obj\Debug\Transformation.csproj.CoreCompileInputs.cache

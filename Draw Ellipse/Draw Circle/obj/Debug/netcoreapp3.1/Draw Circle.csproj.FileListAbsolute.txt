@@ -28,3 +28,18 @@ C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreap
 C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.dll
 C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.pdb
 C:\Users\Mahmoud Sobhy\source\repos\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.genruntimeconfig.cache
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.exe
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.deps.json
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.json
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.runtimeconfig.dev.json
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\bin\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csprojAssemblyReference.cache
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw_Circle.Form1.resources
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.GenerateResource.cache
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfoInputs.cache
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.AssemblyInfo.cs
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.csproj.CoreCompileInputs.cache
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.dll
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.pdb
+C:\Users\ezzdi\Desktop\Graphics Package\Draw Ellipse\Draw Circle\obj\Debug\netcoreapp3.1\Draw Circle.genruntimeconfig.cache

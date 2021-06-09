@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Mahmoud Sobhy\\.nuget\\packages\\": {}
+    "C:\\Users\\ezzdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Graphics Package\\Draw Ellipse\\Draw Circle\\Draw Circle.csproj",
+      "projectUniqueName": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Ellipse\\Draw Circle\\Draw Circle.csproj",
       "projectName": "Draw Circle",
-      "projectPath": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Graphics Package\\Draw Ellipse\\Draw Circle\\Draw Circle.csproj",
-      "packagesPath": "C:\\Users\\Mahmoud Sobhy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Graphics Package\\Draw Ellipse\\Draw Circle\\obj\\",
+      "projectPath": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Ellipse\\Draw Circle\\Draw Circle.csproj",
+      "packagesPath": "C:\\Users\\ezzdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Ellipse\\Draw Circle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mahmoud Sobhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ezzdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

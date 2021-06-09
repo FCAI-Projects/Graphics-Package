@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Draw Line Bresenham's/1.0.0": {
+      "Draw Line Bresenham_s/1.0.0": {
         "runtime": {
-          "Draw Line Bresenham's.dll": {}
+          "Draw Line Bresenham_s.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Draw Line Bresenham's/1.0.0": {
+    "Draw Line Bresenham_s/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

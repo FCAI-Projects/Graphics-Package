@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Draw Line Bresenham's\\Draw Line Bresenham's\\Draw Line Bresenham's.csproj": {}
+    "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Line Bresenham_s\\Draw Line Bresenham_s\\Draw Line Bresenham_s.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Draw Line Bresenham's\\Draw Line Bresenham's\\Draw Line Bresenham's.csproj": {
+    "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Line Bresenham_s\\Draw Line Bresenham_s\\Draw Line Bresenham_s.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Draw Line Bresenham's\\Draw Line Bresenham's\\Draw Line Bresenham's.csproj",
-        "projectName": "Draw Line Bresenham's",
-        "projectPath": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Draw Line Bresenham's\\Draw Line Bresenham's\\Draw Line Bresenham's.csproj",
-        "packagesPath": "C:\\Users\\Mahmoud Sobhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahmoud Sobhy\\source\\repos\\Draw Line Bresenham's\\Draw Line Bresenham's\\obj\\",
+        "projectUniqueName": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Line Bresenham_s\\Draw Line Bresenham_s\\Draw Line Bresenham_s.csproj",
+        "projectName": "Draw Line Bresenham_s",
+        "projectPath": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Line Bresenham_s\\Draw Line Bresenham_s\\Draw Line Bresenham_s.csproj",
+        "packagesPath": "C:\\Users\\ezzdi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ezzdi\\Desktop\\Graphics Package\\Draw Line Bresenham_s\\Draw Line Bresenham_s\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mahmoud Sobhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ezzdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
